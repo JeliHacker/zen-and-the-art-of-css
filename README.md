@@ -1,0 +1,2 @@
+# zen-and-the-art-of-css
+Create a webpage to answer the following questions. Discuss what makes Zen Garden interesting. Also pick your favorite css design off of the site and describe at least one aspect of the layout given the reading that you completed for today. For something extra you could also discuss an effect that was done with CSS that was not in your book. (Use w3 schools as a reference for unfamiliar CSS)
